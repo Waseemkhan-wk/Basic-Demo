@@ -1,3 +1,4 @@
 # Basic-Demo
-This is my First repository\n I'm from Kohat
+This is my First repositor
+I'm from Kohat
 
